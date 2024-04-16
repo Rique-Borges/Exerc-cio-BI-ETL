@@ -21,6 +21,3 @@ Este script em Python demonstra como extrair dados de diferentes fontes, realiza
 
 Certifique-se de que os arquivos e o script estejam na mesma pasta para que o script funcione corretamente.
 
----
-
-Se precisar de mais alguma coisa, estou à disposição!
