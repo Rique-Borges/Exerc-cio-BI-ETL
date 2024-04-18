@@ -1,4 +1,4 @@
-# Script de Extração, Transformação e Carregamento de Dados
+# Exercício-BI-ETL
 
 Este script em Python demonstra como extrair dados de diferentes fontes, realizar transformações e carregá-los em diferentes formatos, como CSV e banco de dados SQLite. Ele utiliza a biblioteca Pandas para manipulação de dados e SQLite3 para interação com o banco de dados.
 
